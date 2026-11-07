@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Disallow: /web/
+Sitemap: https://jobs.illtip.com/sitemap.xml
